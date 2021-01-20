@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to 承睿花园
+您可以使用承睿花园 [安全系统](https://chengrui2010.github.io/chengrui/) 那里没有装饰，只有......
 
-You can use the [editor on GitHub](https://github.com/chengrui6/rui/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 来自
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是刘承睿，今年10岁，很高兴认识你.
 
-### Markdown
+### 公众号
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+首先进入微信，接着点击通讯录，然后点击公众号，点击右上方的加号，输入“承睿花园”关注即可. 
 
-```markdown
-Syntax highlighted code block
+### 趣味答题
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengrui6/rui/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+你知道人一天心脏跳多少下吗？
+一个正常人在安静休息的时候心率波动于60-100次/分，如果按照这个计算，人的心跳大概在8-12万次/天之间。如果是交感神经兴奋的人或者是有运动、激动，心跳可以超过100次/分，所以全天的心跳也有可能超过12万次。如果是运动员、体力活动的劳动人民，他的心跳也可以小于60次/分，但是大部分大于50次/分，换成全天也可以小于8万次，但是一般会大于7万次。
